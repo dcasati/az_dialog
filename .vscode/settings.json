@@ -1,0 +1,11 @@
+{
+    "python.pythonPath": "/usr/local/opt/python/bin/python3.6",
+    "python.linting.enabled": true,
+    "python.unitTest.pyTestArgs": [
+        "."
+    ],
+    "python.unitTest.unittestEnabled": false,
+    "python.unitTest.nosetestsEnabled": false,
+    "python.unitTest.pyTestEnabled": false,
+    "python.unitTest.promptToConfigure": false
+}
