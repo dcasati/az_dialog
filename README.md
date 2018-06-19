@@ -2,7 +2,7 @@
 
 This is a small dialog-based program that will allow for the batch deletion of resource groups in Azure.
 
-[![asciicast](https://asciinema.org/a/xDAGu9Lxgieo0Njukvq5mjKH3.png)](https://asciinema.org/a/xDAGu9Lxgieo0Njukvq5mjKH3)
+![asciicast](demo.gif)
 
 1. Run the container:
 
