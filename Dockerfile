@@ -6,7 +6,7 @@ WORKDIR /app
 ADD . /app
 
 RUN apk update \
-    && apk add dialog python3 py3-dialog py3-pip
+    && apk add dialog python3 py3-dialog py3-pip dialog
 
 # Using pip:
 RUN python3 -m pip install -r requirements.txt
